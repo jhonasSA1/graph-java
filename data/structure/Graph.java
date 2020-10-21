@@ -12,6 +12,7 @@ import java.util.regex.Pattern;
 public class Graph {
     private boolean directed;
     // private boolean weighted;
+    //jhonas
     private ListLinked<Vertex> vertexList;
     private Vertex[] vertexs;
     private int numVertexs;
